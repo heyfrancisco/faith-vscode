@@ -1,0 +1,22 @@
+{
+  "name": "faith-theme",
+  "displayName": "Faith Theme",
+  "description": "A theme for the faithful. Just like Saul became Paul, the Faith Theme transforms the All Hallow's Eve theme with tweaks and a new identity.",
+  "version": "1.0.0",
+  "publisher": "Dube Software",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Faith Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Faith Theme-color-theme.json"
+      }
+    ]
+  }
+}
