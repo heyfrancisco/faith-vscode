@@ -4,6 +4,8 @@
   "description": "A theme for the faithful. Just like Saul became Paul, the Faith Theme transforms the All Hallow's Eve theme with tweaks and a new identity.",
   "version": "1.0.1",
   "publisher": "DubeSoftware",
+  "license": "MIT",
+  "icon": "images/icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/dubesoftware/faith-theme"
