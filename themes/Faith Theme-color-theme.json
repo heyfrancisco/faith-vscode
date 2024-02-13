@@ -12,15 +12,13 @@
 		{
 			"scope": "text",
 			"settings": {
-				"foreground": "#FFFFFF",
-				"background": "#434242"
+				"foreground": "#FFFFFF"
 			}
 		},
 		{
 			"scope": "source",
 			"settings": {
-				"foreground": "#FFFFFF",
-				"background": "#000000"
+				"foreground": "#FFFFFF"
 			}
 		},
 		{
@@ -70,8 +68,7 @@
 		{
 			"scope": "source comment.block",
 			"settings": {
-				"foreground": "#FFFFFF",
-				"background": "#9B9B9B"
+				"foreground": "#FFFFFF"
 			}
 		},
 		{
@@ -89,8 +86,7 @@
 		{
 			"scope": "string.interpolated",
 			"settings": {
-				"foreground": "#000000",
-				"background": "#CCCC33"
+				"foreground": "#000000"
 			}
 		},
 		{
@@ -151,7 +147,7 @@
 		{
 			"scope": "token.warn-token",
 			"settings": {
-				"foreground": "#CD9731"
+				"foreground": "#FFFFFF"
 			}
 		},
 		{
