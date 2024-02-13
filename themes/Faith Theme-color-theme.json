@@ -147,7 +147,7 @@
 		{
 			"scope": "token.warn-token",
 			"settings": {
-				"foreground": "#FFFFFF"
+				"foreground": "#CD9731"
 			}
 		},
 		{
