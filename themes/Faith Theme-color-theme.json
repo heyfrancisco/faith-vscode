@@ -191,9 +191,9 @@
 			}
 		},
 		{
-			"scope": "method",
+			"scope": "support.function",
 			"settings": {
-				"foreground": "#C83730"
+				"foreground": "#FFFFFF"
 			}
 		},
 	]
