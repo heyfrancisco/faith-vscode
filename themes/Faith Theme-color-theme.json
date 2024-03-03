@@ -171,6 +171,12 @@
 			}
 		},
 		{
+			"scope": "variable.parameter",
+			"settings": {
+				"fontStyle": ""
+			}
+		},
+		{
 			"scope": "punctuation.separator.inheritance.ruby",
 			"settings": {
 				"foreground": "#CC7833",
