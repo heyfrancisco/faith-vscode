@@ -189,6 +189,12 @@
 				"foreground": "#CC7833",
 				"fontStyle": "italic"
 			}
+		},
+		{
+			"scope": "keyword.operator",
+			"settings": {
+				"foreground": "#C83730"
+			}
 		}
 	]
 }
