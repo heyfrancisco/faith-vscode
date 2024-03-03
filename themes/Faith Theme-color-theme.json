@@ -115,12 +115,6 @@
 			}
 		},
 		{
-			"scope": "entity.other.inherited-class",
-			"settings": {
-				"fontStyle": "italic underline"
-			}
-		},
-		{
 			"scope": "entity.name.tag",
 			"settings": {
 				"fontStyle": "underline"
@@ -196,5 +190,11 @@
 				"foreground": "#FFFFFF"
 			}
 		},
+		{
+			"scope": "entity.other.inherited-class",
+			"settings": {
+				"fontStyle": "italic underline"
+			}
+		}
 	]
 }
