@@ -171,13 +171,6 @@
 			}
 		},
 		{
-			"scope": "variable.parameter",
-			"settings": {
-				"foreground": "#FFFFFF",
-				"fontStyle": ""
-			}
-		},
-		{
 			"scope": "entity.name.function",
 			"settings": {
 				"foreground": "#FFFFFF"
@@ -194,6 +187,13 @@
 			"scope": "keyword.operator",
 			"settings": {
 				"foreground": "#C83730"
+			}
+		},
+		{
+			"scope": "variable.parameter",
+			"settings": {
+				"foreground": "#FFFFFF",
+				"fontStyle": ""
 			}
 		}
 	]
